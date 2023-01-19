@@ -2,4 +2,5 @@
 a php tools
 
 ##install
-composer require drizzles/php-tools
+
+`composer require drizzles/php-tools`
