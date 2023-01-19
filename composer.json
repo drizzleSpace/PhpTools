@@ -1,0 +1,16 @@
+{
+    "name": "drizzle/php-tools",
+    "description": "this is php tools.",
+    "authors": [
+        {
+            "name": "drizzle",
+            "email": "drizzle2018@icloud.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Drizzle\\phpTools\\": "src/"
+        }
+    }
+}
