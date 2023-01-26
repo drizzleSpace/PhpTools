@@ -8,13 +8,12 @@
         }
     ],
     "require": {
-        "php": ">=5.5"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
             "Drizzle\\phpTools\\": "src/"
         }
     },
-    "license": "MIT",
-    "minimum-stability": "dev"
+    "license": "MIT"
 }
