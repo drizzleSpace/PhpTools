@@ -1,13 +1,13 @@
 # PhpTools
 a php tools,It contains some functional methods that are often encountered in daily development
 
-##install
+## install
 
 `composer require drizzles/php-tools`
 
-##method
+## method
 
-###Array
+### Array
 
 `use Drizzle\phpTools\Tools\ArrayTools;`
 
@@ -15,7 +15,7 @@ a php tools,It contains some functional methods that are often encountered in da
   
 Search for a two-dimensional array and return the result
 
-###Time
+### Time
 
 `use Drizzle\phpTools\Tools\TimeTools;`
 
